@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Poppins', sans-serif; */
+
+body{
+  margin:0;
+  padding:0;
+  background-color: rgb(249, 252, 255);
+}
+
+.mainDiv{
+
+margin-right:5vw;
+margin-left:5vw;
+padding:0;
+background-color:rgb(227, 144, 139);
+height: 100vh;
+padding-left: 1.5vw;
+padding-right: 1.5vw;
+}
+
+.firstDiv {
+  margin:0;
+  width: 100vw;
+}
+
+.logo1{
+  width:5vw;
+  margin: 5vh 1.5vw 3vh 0;
+}
+
+.title > h1{
+/* color:rgb(213, 98, 3); */
+color: white;
+ margin:0 0vw 5px 0;
+font-family: 'Poppins';
+font-size: x-large;
+font-weight:bolder;
+background-color: rgb(201, 120, 105);
+
+}
+
+/* .discription{
+  font-family: 'Poppins';
+width:100%;
+} */
+
+.discription>h3{
+  color: white;
+  font-family: 'Poppins';
+  margin:0;
+  font-weight: 500;
+  background-color: rgb(201, 120, 105);
+}
+
+.expences{
+  background-color: rgb(201, 120, 105) ;
+  color: white;
+  font-family: 'Poppins';
+
+}
